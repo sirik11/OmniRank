@@ -1,0 +1,17 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+torch>=2.0
+torchvision
+faiss-cpu
+transformers
+networkx
+pyspark==3.3.0  # optional for distributed data processing
+dgl==1.1.2      # or use torch-geometric for GNNs
+kafka-python    # for streaming simulation
+fastapi
+uvicorn
+streamlit
+faiss-cpu
+lightfm
