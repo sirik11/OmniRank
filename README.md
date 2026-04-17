@@ -120,17 +120,6 @@ This project is designed as a **platform** for experimentation.  Here are some i
 * **Generative Features**: Use generative models to produce personalised summaries of posts, generate alt‑text for images, or even create content suggestions.
 * **Deployment to Cloud**: Containerise the services and deploy to Kubernetes or serverless platforms.  Use managed databases (e.g., BigQuery, Snowflake) and model serving frameworks (e.g., TorchServe).
 
-## 🧠 How to Talk About This Project in Interviews
-
-*Explain that you designed and implemented a modular, end‑to‑end ranking and recommendation platform.*  Highlight that you:
-
-1. **Simulated large‑scale social interactions** and built tooling to ingest real datasets.
-2. **Architected a multi‑modal system** combining vision, language, collaborative filtering, and graph models.
-3. **Implemented advanced models**, including a deep two‑tower recommender and a graph neural network, and deployed them using scalable frameworks.
-4. **Integrated a contextual bandit** for online policy optimisation and built a real‑time streaming pipeline.
-5. **Developed an interactive UI** that supports experimentation, analysis, and dynamic recommendations.
-
-Discuss trade‑offs: why you chose a two‑tower model for scalability, why GNNs capture network effects, and how online learning adapts to user feedback.  Emphasise modular design so components can be swapped out as technology evolves.
 
 ## ▶️ Quickstart
 
